@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/zona-angka-jitu/pon-2/sitemap.xml
